@@ -1,0 +1,22 @@
+{
+  "job_id": "api_0178b76fc144490f8ee24100",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/0OA0VqDvlsZuUORiCscKVw/TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL.MKV",
+  "suggested_filename": "TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL.MKV",
+  "total_size_bytes": 171360307,
+  "created_at_utc": "2026-05-29T15:58:33.834980+00:00",
+  "zip_folder": "jobs/api_0178b76fc144490f8ee24100/zip",
+  "zip_main_file": "TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL_split.zip",
+  "zip_parts": [
+    {
+      "name": "TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL_split.z01",
+      "path": "jobs/api_0178b76fc144490f8ee24100/zip/TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL_split.zip",
+      "path": "jobs/api_0178b76fc144490f8ee24100/zip/TRIGGER.S01E05.720P.X265.WEB-DL.ALPHADL_split.zip",
+      "size_bytes": 76988707
+    }
+  ]
+}
