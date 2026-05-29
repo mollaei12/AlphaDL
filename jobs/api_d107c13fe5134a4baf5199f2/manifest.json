@@ -1,0 +1,32 @@
+{
+  "job_id": "api_d107c13fe5134a4baf5199f2",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/iN_HKlRO6SnGmfPj3xgBfw/TRIGGER.S01E10.720P.X265.ALPHADL.MKV",
+  "suggested_filename": "TRIGGER.S01E10.720P.X265.ALPHADL.MKV",
+  "total_size_bytes": 348177524,
+  "created_at_utc": "2026-05-29T15:16:56.958666+00:00",
+  "zip_folder": "jobs/api_d107c13fe5134a4baf5199f2/zip",
+  "zip_main_file": "TRIGGER.S01E10.720P.X265.ALPHADL_split.zip",
+  "zip_parts": [
+    {
+      "name": "TRIGGER.S01E10.720P.X265.ALPHADL_split.z01",
+      "path": "jobs/api_d107c13fe5134a4baf5199f2/zip/TRIGGER.S01E10.720P.X265.ALPHADL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "TRIGGER.S01E10.720P.X265.ALPHADL_split.z02",
+      "path": "jobs/api_d107c13fe5134a4baf5199f2/zip/TRIGGER.S01E10.720P.X265.ALPHADL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "TRIGGER.S01E10.720P.X265.ALPHADL_split.z03",
+      "path": "jobs/api_d107c13fe5134a4baf5199f2/zip/TRIGGER.S01E10.720P.X265.ALPHADL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "TRIGGER.S01E10.720P.X265.ALPHADL_split.zip",
+      "path": "jobs/api_d107c13fe5134a4baf5199f2/zip/TRIGGER.S01E10.720P.X265.ALPHADL_split.zip",
+      "size_bytes": 65062230
+    }
+  ]
+}
