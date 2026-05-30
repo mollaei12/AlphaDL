@@ -1,0 +1,27 @@
+{
+  "job_id": "api_9503adbba588474680ed9093",
+  "mode": "zip_split",
+  "file_url": "https://free-dl7.myalphadl.com/QtaAFfEoMWu5ybCfdwcztg/TRIGGER.S01E09.720P.X265.ALPHADL.MKV",
+  "suggested_filename": "TRIGGER.S01E09.720P.X265.ALPHADL.MKV",
+  "total_size_bytes": 269581965,
+  "created_at_utc": "2026-05-30T20:32:31.176683+00:00",
+  "zip_folder": "jobs/api_9503adbba588474680ed9093/zip",
+  "zip_main_file": "TRIGGER.S01E09.720P.X265.ALPHADL_split.zip",
+  "zip_parts": [
+    {
+      "name": "TRIGGER.S01E09.720P.X265.ALPHADL_split.z01",
+      "path": "jobs/api_9503adbba588474680ed9093/zip/TRIGGER.S01E09.720P.X265.ALPHADL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "TRIGGER.S01E09.720P.X265.ALPHADL_split.z02",
+      "path": "jobs/api_9503adbba588474680ed9093/zip/TRIGGER.S01E09.720P.X265.ALPHADL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "TRIGGER.S01E09.720P.X265.ALPHADL_split.zip",
+      "path": "jobs/api_9503adbba588474680ed9093/zip/TRIGGER.S01E09.720P.X265.ALPHADL_split.zip",
+      "size_bytes": 80838511
+    }
+  ]
+}
